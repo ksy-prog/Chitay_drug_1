@@ -2,6 +2,13 @@
 
 [User Flow_Основной сценарий Ученика.pdf](https://github.com/user-attachments/files/28699700/User.Flow_.pdf) — файл из [FigJam](https://www.figma.com/design/kjnFnQWtbdE08ZwnaaZTgf/%D0%A7%D0%B8%D1%82%D0%B0%D0%B9-%D0%B4%D1%80%D1%83%D0%B3?node-id=2475-81617&t=VM6WQJzdTotVJaJz-1). Это Flow основного сценрия пользователя, то есть ученика.
 
+[User Flow_ История чтения.pdf](https://github.com/user-attachments/files/28699762/User.Flow_.pdf) — файл из [FigJam](https://www.figma.com/design/kjnFnQWtbdE08ZwnaaZTgf/%D0%A7%D0%B8%D1%82%D0%B0%D0%B9-%D0%B4%D1%80%D1%83%D0%B3?node-id=2475-81617&t=VM6WQJzdTotVJaJz-1). Это Flow истории чтения.
+
+[User Flow_Ошибка.pdf](https://github.com/user-attachments/files/28699792/User.Flow_.pdf) — файл из [FigJam](https://www.figma.com/design/kjnFnQWtbdE08ZwnaaZTgf/%D0%A7%D0%B8%D1%82%D0%B0%D0%B9-%D0%B4%D1%80%D1%83%D0%B3?node-id=2475-81617&t=VM6WQJzdTotVJaJz-1). Это Flow для сценрия, при котором произошла какая-либо техническая ошибка.
+
+
+
+
 
 
 
