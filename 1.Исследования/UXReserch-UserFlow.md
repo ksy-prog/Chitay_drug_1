@@ -1,6 +1,9 @@
-[User_Flow.pdf](https://github.com/user-attachments/files/28089234/User_Flow.pdf) — файл из [Holst](https://app.holst.so/board/a249109b-94bd-4672-8af1-6ebdc0d13ce6)
+[User_Flow.pdf](https://github.com/user-attachments/files/28089234/User_Flow.pdf) — файл из [Holst](https://app.holst.so/board/a249109b-94bd-4672-8af1-6ebdc0d13ce6). Представленный UserFlow был самым первым в реализации нашего проекта, в дальнейшем мы его поделили на Flow относительно UX сценариев.
 
-Представленный UserFlow был самым первым в реализации нашего проекта, в дальнейшем мы его поделили на Flow относительно UX сценариев.
+[User Flow_Основной сценарий Ученика.pdf](https://github.com/user-attachments/files/28699700/User.Flow_.pdf) — файл из [FigJam](https://www.figma.com/design/kjnFnQWtbdE08ZwnaaZTgf/%D0%A7%D0%B8%D1%82%D0%B0%D0%B9-%D0%B4%D1%80%D1%83%D0%B3?node-id=2475-81617&t=VM6WQJzdTotVJaJz-1). Это Flow основного сценрия пользователя, то есть ученика.
+
+
+
 
 # User Flow — Пользователь
 
